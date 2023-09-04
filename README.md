@@ -8,7 +8,7 @@ Approach For Data Analysis
 <br> 1) First we looked upon data for missing values replaced the values if there is any
 <br> 2) Plotted different graphs using python and analysed the data for observations
 <br> 3) For the next part we moved to plot different graphs to look for the analysis using tableau
-<br> 4) Made 3 Dashboards
+<br> 4) Made 3 different dashboards with datasets
 <br> a) Dashboard 1 included Flights and their inventory management.
 <br> b) Dashboard 2 include analysis for the pre-order for different flights.
 <br> c) Dashboard 3 includes flights and customer satosfaction variables according to haul types, cabin type, flewing hours.
