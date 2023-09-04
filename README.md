@@ -12,3 +12,6 @@ Approach For Data Analysis
 <br> a) Dashboard 1 included Flights and their inventory management.
 <br> b) Dashboard 2 include analysis for the pre-order for different flights.
 <br> c) Dashboard 3 includes flights and customer satosfaction variables according to haul types, cabin type, flewing hours.
+<img width="1003" alt="Screenshot 2023-09-04 at 11 18 33 PM" src="https://github.com/abeysourav/Sky_Hack/assets/105174936/81b6c211-3e2c-4b4e-93d7-1a5759742cf4">
+<img width="998" alt="Screenshot 2023-09-04 at 11 19 05 PM" src="https://github.com/abeysourav/Sky_Hack/assets/105174936/dbff05c1-54ff-4c22-8f9b-62ae8be76c05">
+<img width="1003" alt="Screenshot 2023-09-04 at 11 19 26 PM" src="https://github.com/abeysourav/Sky_Hack/assets/105174936/7556afcf-4105-4e33-aff4-5b7cd9914fdc">
